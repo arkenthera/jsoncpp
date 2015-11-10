@@ -10,8 +10,8 @@
 /libs/
 /doc/doxyfile
 /dist/
-/version
-/include/json/version.h
+version
+include/json/version.h
 
 Msvc
 
